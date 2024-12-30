@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moqui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://moqui.org/schema/moqui ">
+    <!-- Example configuration, adjust based on your needs -->
+    <component name="moquitraining">
+        <runtime>runtime</runtime>
+        <entity-definition location="runtime/entity"/>
+        <service-definition location="runtime/service"/>
+        <screen-definition location="runtime/screen"/>
+        <script location="runtime/script"/>
+    </component>
+</moqui>
