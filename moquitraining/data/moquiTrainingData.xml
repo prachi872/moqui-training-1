@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<entity-facade-xml type="demo">
-    <moquitraining.MoquiTraining trainingId="MT001" trainingDate="2024-12-01" trainingPrice="499" trainingDuration="5"/>
-    <moquitraining.MoquiTraining trainingId="MT002" trainingDate="2024-12-15" trainingPrice="599" trainingDuration="7"/>
-    <moquitraining.MoquiTraining trainingId="MT003" trainingDate="2025-01-10" trainingPrice="399" trainingDuration="3"/>
-</entity-facade-xml>
-
